@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: reverseproxy
-        image: rebeccaogunyemi/reverseproxy:v13
+        image: rebeccaogunyemi/reverseproxy:v21
         ports:
         - containerPort: 8080
         resources:
